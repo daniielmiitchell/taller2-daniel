@@ -7,3 +7,8 @@ cuatro = 4
 cinco = 5
 multi = dos * cinco
 print (multi)
+
+#Modificación de Ana
+print("Soy Ana, agregué una nueva operación")
+multi2 = dos * cuatro
+print(multi2)
